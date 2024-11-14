@@ -1,0 +1,23 @@
+body {  
+    background-color: rgb(213, 233, 174);
+}
+.Bär {
+    width:500px;
+    display: block;
+   margin-bottom: 50px;
+}
+.Schildkröte {
+    width: 400px;
+}
+
+p{
+    text-align: center;
+}
+.BT{
+    display:flex;
+    gap: 50px;
+    margin-inline: 100px;
+    justify-content: space-between;
+}
+
+ 
